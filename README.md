@@ -7,26 +7,26 @@ Thank you for visiting my code repository! I have organized these Jupyter Notebo
 After selecting the "launch binder" widget 
 
 <br>
-<img src="./img/launch_binder.png" alt="Binder">
+<img src="./images/launch_binder.png" alt="Binder">
 <br>
 
 the Binder homepage will appear displaying the docker initialization:
 
 <br>
-<img src="./img/binder_homepage.png" alt="Binder">
+<img src="./images/binder_homepage.png" alt="Binder">
 <br>
 
 
 Once the Jupyter Lab opens, run each of the cells by pressing `SHIFT + RETURN` 
 
 <br>
-<img src="./img/jupyter_lab.png" alt="Binder">
+<img src="./images/jupyter_lab.png" alt="Binder">
 <br>
 
 and, after the last cell is run, the interactive data visualization will display:
 
 <br>
-<img src="./img/network_comparisons_multiplot.png" alt="Multiplot">
+<img src="./images/network_comparisons_multiplot.png" alt="Multiplot">
 <br>
 
 
